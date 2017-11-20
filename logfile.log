@@ -1,0 +1,9 @@
+|timestamp              |url           |userid|
+|2013-09-01 09:00:00UTC |/contact.html |12345 |
+|2013-09-01 09:00:00UTC |/contact.html |12346 |
+|2013-09-01 10:00:00UTC |/contact.html |12345 |
+|2013-09-01 10:00:00UTC |/contact.html |12348 |
+|2013-09-01 10:00:00UTC |/contact2.html |12349 |
+|2013-09-01 11:00:00UTC |/contact.html |12347 |
+|2013-09-01 11:00:00UTC |/contact2.html |12347 |
+|2013-09-01 12:00:00UTC |/contact2.html |12347 |
